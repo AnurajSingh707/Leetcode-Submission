@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0343-integer-break) |
 | [0633-sum-of-square-numbers](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0343-integer-break) |
 ## Breadth-First Search
 |  |
 | ------- |
