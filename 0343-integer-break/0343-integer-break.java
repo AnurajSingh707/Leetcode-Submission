@@ -1,25 +1,15 @@
 class Solution {
-    int dp[];
-    public static int help(int n , int dp[]){
-        if( n == 2){
-            return 1;
-        }
-        if(dp[n] != -1){
-            return dp[n];
-        }
-        int res = Integer.MIN_VALUE;
-        for(int i = 1; i <n-1;i++){
-    int prod = i * Math.max(n-i,help(n-i,dp));
-      res = Math.max(res, prod);
-        }
-        return dp[n] =  res; 
-    }
     public int integerBreak(int n) {
-        dp = new int[n+1];
-
-        for(int i = 0; i<n;i++){
-            Arrays.fill(dp, -1);
+        int dp[] = new int[n+1];
+        dp[2] = 1;
+        for(int j = 3; j<= n;j++){
+            int res = Integer.MIN_VALUE;
+            for (int i =1; i<j; i++){
+                int prod = i * Math.max(j-i, dp[j-i]);
+                res = Math.max(res, prod);
+            }
+             dp[j] = res;
         }
-        return help(n, dp);
+        return dp[n];
     }
 }
