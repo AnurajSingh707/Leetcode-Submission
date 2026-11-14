@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0343-integer-break) |
 | [0633-sum-of-square-numbers](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0633-sum-of-square-numbers) |
+| [3024-type-of-triangle](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3024-type-of-triangle](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,8 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3024-type-of-triangle](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/3024-type-of-triangle) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
