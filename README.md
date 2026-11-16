@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0343-integer-break) |
+| [0740-delete-and-earn](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0740-delete-and-earn) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -36,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0740-delete-and-earn](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0740-delete-and-earn) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3024-type-of-triangle](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
+| [0740-delete-and-earn](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0740-delete-and-earn) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
