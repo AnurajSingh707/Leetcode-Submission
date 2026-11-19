@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0343-integer-break) |
+| [0494-target-sum](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0494-target-sum) |
 | [0740-delete-and-earn](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0740-delete-and-earn) |
 ## Breadth-First Search
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0279-perfect-squares) |
+| [0494-target-sum](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0494-target-sum) |
 | [0740-delete-and-earn](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0740-delete-and-earn) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3024-type-of-triangle](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/3024-type-of-triangle) |
@@ -58,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/3024-type-of-triangle) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
