@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0494-target-sum) |
 | [0740-delete-and-earn](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0740-delete-and-earn) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -64,9 +65,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0494-target-sum) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
