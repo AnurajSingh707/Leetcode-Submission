@@ -88,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
