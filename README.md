@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0005-longest-palindromic-substring) |
 | [0633-sum-of-square-numbers](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0005-longest-palindromic-substring) |
 | [0279-perfect-squares](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0343-integer-break) |
 | [0494-target-sum](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0494-target-sum) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0005-longest-palindromic-substring) |
 | [0079-word-search](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0079-word-search) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Depth-First Search
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/1791-find-center-of-star-graph) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AnurajSingh707/Leetcode-Submission/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
